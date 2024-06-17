@@ -1,1 +1,0 @@
-elf.geometry("800x600")
